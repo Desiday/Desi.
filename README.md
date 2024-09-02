@@ -1,1 +1,4 @@
-Olá. Meu nome é Desirée, e estou fazendo o curso do alura.
+Olá. Meu nome é Desirée Macedo.
+Estou estudando na Alura.
+Estou me desenvolvendo na linguagem JavaScript.
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
